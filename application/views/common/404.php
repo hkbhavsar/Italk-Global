@@ -1,0 +1,1 @@
+<?phpif (IN_PRODUCTION) {    if (strrpos('no_zero'. $message, 'not exist') || strrpos('no_zero'. $message, 'not found')) {	    Request::instance()->status = 404;	    Request::instance()->send_headers();        echo 'Not Found! (404)';    } else { echo ''; }} else {    include SYSPATH.'views/kohana/error'.EXT;}?>

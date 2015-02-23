@@ -1,0 +1,76 @@
+{
+                    "graphset":[
+                            {
+                                "type":"pie",
+                                "alpha":1,
+                                "background-color":"#2A2325",
+                                "title":{
+                                    "text":"Total Leads",
+                                    "font-family":"helvetica",
+                                    "font-size":"20px",
+                                    "font-weight":"bold",
+                                    "background-color":"#2A2325",
+                                    "margin-top":"15px",
+                                    "margin-left":"45px",
+                                    "margin-bottom":"10px",
+                                    "text-align":"left"
+                                },
+                                "legend":{
+                                    "layout":"2x2",
+                                    "position":"95% 0%",
+                                    "width":"175px",
+                                    "height":"45px",
+                                    "visible":true,
+                                    "border-radius":"5px",
+                                    "font-family":"helvetica",
+                                    "font-size":"10px",
+                                    "background-color":"#2A2325",
+                                    "border-width":"1px",
+                                    "border-color":"#808080",
+                                    "item":{
+                                        "font-color":"#fff",
+                                        "marker-style":"circle",
+                                        "padding":"-2 2",
+                                        "border-width":"0px"
+                                    }
+                                },
+                                "tooltip":{
+                                    "visible":true,
+                                    "font-color":"#000000"
+                                },
+                                "plot":{
+                                    "offset":"5",
+                                    "tooltip-text":"%v  %t",
+                                    "detach":true,
+                                    "border-color":"#2A2325",
+                                    "value-box":{
+                                        "placement":"in",
+                                        "connected":false,
+                                        "font-color":"#000000"
+                                    }
+                                },
+                                "series":[
+                                    {
+                                        "values":[30],
+                                        "background-color":"#8DD62E",
+                                        "text":"Auto"
+                                    },
+                                    {
+                                        "values":[168],
+                                        "background-color":"#FF006F",
+                                        "text":"Payday"
+                                    },
+                                    {
+                                        "values":[0],
+                                        "background-color":"#00D3E6",
+                                        "text":"NewCar"
+                                    },
+                                    {
+                                        "values":[27],
+                                        "background-color":"#FFD540",
+                                        "text":"New Payday"
+                                    }
+                                ]
+                            }
+                        ]
+                        }

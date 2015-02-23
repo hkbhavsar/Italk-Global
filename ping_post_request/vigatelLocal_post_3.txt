@@ -1,0 +1,6 @@
+Post URL::>http://vigatelllc.com/webservice/server.php?wsdl 
+
+Ping Data::>zip=61705&client_id=386&lead_id=3&phone3098243426email=tommygurl2469@aol.com
+
+Ping Result::>fail
+

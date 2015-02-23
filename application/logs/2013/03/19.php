@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-03-19 16:54:11 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 16:54:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 16:54:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 16:54:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 18:42:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 18:42:18 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 18:42:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 18:51:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 18:51:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-icons_ffffff_256x240.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 18:51:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_232428_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 18:51:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_fff880_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 18:51:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_969696_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-19 18:52:51 --- ERROR: ErrorException [ 2 ]: curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER, CURLOPT_QUOTE, CURLOPT_HTTP200ALIASES and CURLOPT_POSTQUOTE arguments ~ APPPATH/classes/model/leads.php [ 1528 ]
+2013-03-19 18:58:02 --- ERROR: ErrorException [ 2 ]: curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER, CURLOPT_QUOTE, CURLOPT_HTTP200ALIASES and CURLOPT_POSTQUOTE arguments ~ APPPATH/classes/model/leads.php [ 1528 ]

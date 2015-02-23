@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-04-18 13:22:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 13:22:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 13:22:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 13:22:50 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 13:22:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 13:23:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 16:34:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 16:34:44 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 16:34:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 16:34:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 18:35:32 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 18:35:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 19:48:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-18 19:48:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]

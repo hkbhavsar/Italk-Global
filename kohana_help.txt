@@ -1,0 +1,72 @@
+﻿ $db = Model_Table::getAdapter();
+$db->update('takers',array("mail_send"=>"yes","mail_send_date"=>date('Y-m-d h:i:s')),"id=".$taker_id);
+
+$config = Kohana::config('auth');
+
+Session::instance()->set('user_id', $user_id);
+$this->_config['session_key']
+
+
+http://www.vemmabuilder.com/895640905
+
+6428jf
+
+$prospects->save();
+                                echo $last_inserted_id = $prospects->id;exit;
+
+$member = ORM::factory('prospects')->order_by('id','asc')->limit(3)->find_all();
+
+ Auth::instance()->hash_password($_POST['password']);	
+
+<? echo $_SERVER['SCRIPT_NAME'];?>/
+
+echo Kohana::$base_url;
+
+ echo Auth::instance()->get_user()->username;
+
+$new_prospectes =  DB::select('first_name','last_name','created_date')->from('prospects')->where('user_id','=',$logged_in_userid)->execute()->as_array();
+           
+
+ <?php 
+                                                        foreach ($new_joined_preprospects as $newprospects) {
+
+                                                        ?>
+							<li><?php echo $newprospects->first_name;?> <?php echo $newprospects->last_name;?> - USA<br><?php echo date('d/m/y h:i A',strtotime($newprospects->created_date));?></li>
+                                                        <?php }?>
+====================================================================================
+$articol = ORM::factory('opinii');	
+$articol->select('jurnalisti.*',array('jurnalisti.link','jlink'),array('jurnalisti.id','jID'))
+                                                        ->join('jurnalisti','left')
+                                                        ->on('jurnalisti.id','=','opinii.jurnalistID')
+                                                        ->where('jurnalistID','=',$jurnalist->id)->order_by('opinii.id','desc')
+                                                        ->limit($pagination->items_per_page)
+                                                        ->offset($pagination->offset)->find_all()->as_array();
+
+========================================= Add, Update, Delete ==================
+
+http://kerkness.ca/wiki/doku.php?id=crud_with_the_query_builder
+
+=========================== AJAX =====================
+
+  $.ajax({
+            type: 'POST',
+            url: 'add_stock',
+            data: { 'links': 'link_array' }
+            });
+
+
+===================================
+
+$this->_helper->layout->setLayout("merchant");
+
+$this->_helper->layout()->disableLayout();
+
+$this->_helper->viewRenderer->setNoRender();
+
+
+======================
+joelf / 6428jf
+
+================================ Pagging ================
+
+http://www.kerkness.ca/wiki/doku.php?id=how_to_use_the_pagination_module 

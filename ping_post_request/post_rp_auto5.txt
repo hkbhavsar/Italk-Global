@@ -1,0 +1,10 @@
+Post URL::>https://leads.bi-coastalmedia.com/api.php
+
+Post Data::>Key=ulr890I7tFnAwFbXR2wotfNkwBYBRlt.tlsHw.crRfqPw.Of95tKv.Oz4Mii&API_Action=pingPostLead&Mode=post&Lead_ID=27208749&TYPE=67&IP_Address=108.250.165.137&Landing_Page=landing&First_Name=lisa&Last_Name=hunze&Address=1113 edward terrace&City=Saint Louis&Email=lmh1024@gmail.com&Phone=3144402137&Alternate_Phone=3144402137&CoSigner=Yes&DOB=06/10/1975&Months_At_Residence=1&Years_At_Residence=6&Monthly_Mortgage_Or_Rent=500&Rent_Or_Own=Rent&Bankruptcy=No&Employer=gnh services&Occupation=gnh services&State=MO&Zip=99999&SSN=999999999&Monthly_Income=2400&Credit_Check_Authorized=Yes&Years_Employed=1&Months_Employed=6
+
+Post Result::><?xml version="1.0" encoding="UTF-8"?><response>
+ <status>Matched</status>
+ <lead_id>27208749</lead_id>
+</response>
+
+

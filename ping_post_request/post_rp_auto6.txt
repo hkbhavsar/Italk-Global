@@ -1,0 +1,10 @@
+Post URL::>https://leads.bi-coastalmedia.com/api.php
+
+Post Data::>Key=ulr890I7tFnAwFbXR2wotfNkwBYBRlt.tlsHw.crRfqPw.Of95tKv.Oz4Mii&API_Action=pingPostLead&Mode=post&Lead_ID=25939083&TYPE=67&IP_Address=97.92.24.29&Landing_Page=landing&First_Name=kimberly&Last_Name=turner&Address=1949 newton street&City=Farmington&Email=kimberlydturner@yahoo.com&Phone=9524632794&Alternate_Phone=9524632794&CoSigner=Yes&DOB=07/08/1968&Months_At_Residence=1&Years_At_Residence=1&Monthly_Mortgage_Or_Rent=300&Rent_Or_Own=Own&Bankruptcy=No&Employer=integra wealth&Occupation=worker&State=MN&Zip=99999&SSN=475942026&Monthly_Income=4700&CreditAuthorization=true&EmployerYears=1&EmployerMonths=1
+
+Post Result::><?xml version="1.0" encoding="UTF-8"?><response>
+ <status>Error</status>
+ <error>Insert Error #8: Required value for field &quot;Credit Check Authorized&quot; missing. Required value for field &quot;Years Employed&quot; missing. Required value for field &quot;Months Employed&quot; missing.</error>
+</response>
+
+

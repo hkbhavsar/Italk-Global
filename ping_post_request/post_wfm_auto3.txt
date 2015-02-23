@@ -1,0 +1,10 @@
+Post URL::>https://www.leadlistmanager.com/api.php
+
+Post Data::>Key=ZLt3o_Cd8N4FZgZvZ-FFY_uFYw5PY_QXZ.mkZ-5Nuw6-u_0voGDFpgIhtKSS&API_Action=pingPostLead&Mode=post&Lead_ID=7076095&TYPE=7&IP_Address=98.215.89.159&Landing_Page=landing&First_Name=hannah&Last_Name=probst&Address=74 fedor circle&City=BLOOMINGTON&Email=tommygurl2469@aol.com&Phone=3098243426&Alternate_Phone=3098243426&CoSigner=Yes&DOB=12/02/1988&Months_At_Residence=1&Years_At_Residence=3&Monthly_Mortgage_Or_Rent=300&Rent_Or_Own=Own&Bankruptcy=No&Employer=thomas&Occupation=&State=IL&Zip=99999&SSN=999999999&Monthly_Income=1800
+
+Post Result::><?xml version="1.0" encoding="UTF-8"?><response>
+ <status>Error</status>
+ <error>Insert Error #8: Required value for field &quot;Occupation&quot; missing.</error>
+</response>
+
+

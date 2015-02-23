@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-01-04 20:37:04 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:37:04 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:37:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:37:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:37:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:37:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/loaders/type3/dark/24.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:37:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:37:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:37:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:37:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/loaders/type3/dark/24.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:41:32 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: submitlead/images/jquery-ui-logo.png ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:41:34 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: submitlead/images/jquery-ui-logo.png ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-01-04 20:41:35 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: submitlead/images/loaders/type3/dark/24.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]

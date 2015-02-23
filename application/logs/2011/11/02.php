@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-11-02 16:47:43 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYI' (Errcode: 13) [ SHOW FULL COLUMNS FROM `prospects` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-02 17:02:05 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYD' (Errcode: 13) [ SHOW FULL COLUMNS FROM `country` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-02 17:04:07 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYI' (Errcode: 13) [ SHOW FULL COLUMNS FROM `status` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-02 17:09:15 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYD' (Errcode: 13) [ SHOW FULL COLUMNS FROM `lead_types` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-02 17:09:16 --- ERROR: ErrorException [ 2 ]: include_once(dashboard_rightbox.php) [function.include-once]: failed to open stream: No such file or directory ~ APPPATH\views\admin\genealogy\index.php [ 55 ]
+2011-11-02 17:11:15 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYI' (Errcode: 13) [ SHOW FULL COLUMNS FROM `users` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-02 17:18:58 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYD' (Errcode: 13) [ SHOW FULL COLUMNS FROM `users` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-02 17:22:11 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYD' (Errcode: 13) [ SHOW FULL COLUMNS FROM `lead_types` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-02 17:23:35 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYI' (Errcode: 13) [ SHOW FULL COLUMNS FROM `member_types` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-02 17:23:37 --- ERROR: ErrorException [ 4 ]: syntax error, unexpected ' ~ APPPATH\views\admin\genealogy\index.php [ 21 ]
+2011-11-02 17:39:26 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYI' (Errcode: 13) [ SHOW FULL COLUMNS FROM `status` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-02 17:40:24 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYD' (Errcode: 13) [ SHOW FULL COLUMNS FROM `status` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-02 18:27:12 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_76c_0.MYD' (Errcode: 13) [ SHOW FULL COLUMNS FROM `users` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]

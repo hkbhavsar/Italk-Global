@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-05-20 08:53:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-05-20 08:54:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-05-20 08:54:05 --- ERROR: ErrorException [ 8 ]: Undefined index:  uid ~ APPPATH/views/startup/index.php [ 47 ]
+2011-05-20 08:57:07 --- ERROR: ReflectionException [ -1 ]: Class controller_register does not exist ~ SYSPATH/classes/kohana/request.php [ 1178 ]
+2011-05-20 08:58:27 --- ERROR: ReflectionException [ -1 ]: Class controller_register does not exist ~ SYSPATH/classes/kohana/request.php [ 1178 ]
+2011-05-20 08:58:33 --- ERROR: ReflectionException [ -1 ]: Class controller_register does not exist ~ SYSPATH/classes/kohana/request.php [ 1178 ]
+2011-05-20 08:58:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: step1/css/img/quota.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-05-20 08:58:51 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: step1/css/img/zoom.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-05-20 08:59:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: step1/index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-05-20 09:06:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: step1/css/img/quota.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-05-20 09:06:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: step1/css/img/zoom.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-05-20 09:06:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: step1/css/img/zoom.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-05-20 09:08:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: step1/css/img/zoom.png ~ SYSPATH/classes/kohana/request.php [ 676 ]

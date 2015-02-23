@@ -1,0 +1,10 @@
+Ping URL::>https://leads.bi-coastalmedia.com/api.php
+
+Ping Data::>Key=ulr890I7tFnAwFbXR2wotfNkwBYBRlt.tlsHw.crRfqPw.Of95tKv.Oz4Mii&API_Action=pingPostLead&Mode=ping&TYPE=67&SRC=abmkt_afd&State=TX&Zip=99999&SSN=452470331&Monthly_Income=3250&Test_Lead=1&Return_Best_Price=1
+
+Ping Result::><?xml version="1.0" encoding="UTF-8"?><response>
+ <status>Unmatched</status>
+ <lead_id>26250639</lead_id>
+</response>
+
+

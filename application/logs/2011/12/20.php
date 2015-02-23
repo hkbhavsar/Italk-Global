@@ -1,0 +1,17 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-12-20 11:22:40 --- ERROR: Database_Exception [ 1048 ]: Column 'user_id' cannot be null [ INSERT INTO `visits` (`prospect_id`, `visit_date`, `total_visit`, `user_id`) VALUES ('50', now(), total_visit+1, NULL) ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-12-20 11:22:44 --- ERROR: Database_Exception [ 1048 ]: Column 'user_id' cannot be null [ INSERT INTO `visits` (`prospect_id`, `visit_date`, `total_visit`, `user_id`) VALUES ('50', now(), total_visit+1, NULL) ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-12-20 14:14:15 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 14:15:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 14:40:10 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 15:06:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 16:38:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 16:46:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 16:48:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 17:05:32 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 17:06:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: user/loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 17:08:16 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 17:11:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-20 17:13:31 --- ERROR: ErrorException [ 2 ]: file_get_contents(creatives/137.html) [function.file-get-contents]: failed to open stream: No such file or directory ~ APPPATH\classes\controller\user.php [ 506 ]
+2011-12-20 17:16:07 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]

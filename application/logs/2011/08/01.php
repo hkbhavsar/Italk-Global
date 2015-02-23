@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-08-01 05:24:50 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 05:24:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 05:25:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/ajax-loader.gif ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 05:26:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 05:26:16 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 05:32:14 --- ERROR: ErrorException [ 8 ]: Undefined variable: id ~ APPPATH/views/admin/prospects/add_new.php [ 80 ]
+2011-08-01 11:02:51 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 11:03:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 11:03:15 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 11:04:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 11:05:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 12:21:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-08-01 13:45:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/.lib/css/img/orange/logo-login.png ~ SYSPATH/classes/kohana/request.php [ 676 ]

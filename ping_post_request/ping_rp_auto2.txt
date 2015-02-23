@@ -1,0 +1,11 @@
+Ping URL::>https://leads.bi-coastalmedia.com/api.php
+
+Ping Data::>Key=ulr890I7tFnAwFbXR2wotfNkwBYBRlt.tlsHw.crRfqPw.Of95tKv.Oz4Mii&API_Action=pingPostLead&Mode=ping&TYPE=67&SRC=abmkt_afd&State=MO&Zip=99999&SSN=999999999&Monthly_Income=1800&Test_Lead=1&Return_Best_Price=1
+
+Ping Result::><?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<status>Matched</status>
+	<lead_id>26949791</lead_id>
+	<price>3.75</price>
+</response>
+

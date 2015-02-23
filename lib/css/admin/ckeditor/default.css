@@ -1,0 +1,134 @@
+/*
+Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+		fieldset {
+			padding: 1em;
+		}
+		legend {
+			padding: 0 0.5em;
+		}
+		.ac_results {
+			padding: 0;
+			border: 1px solid #333;
+			background-color: #fff;
+			overflow: hidden;
+			z-index: 99999;
+			text-align: left;
+		}
+		.ac_results ul {
+			width: 100%;
+			list-style-position: outside;
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		.ac_results li {
+			margin: 0;
+			padding: 2px 5px;
+			cursor: default;
+			display: block;
+			font: menu;
+			font-size: 10px;
+			line-height: 16px;
+			overflow: hidden;
+		}
+		.ac_odd {
+			background-color: #eee;
+		}
+		.ac_over {
+			background-color: #0e2221;
+			color: #fff;
+		}
+
+form.ckeditor dl {
+	width: 100%;
+	overflow: hidden;
+} /* basic layout for forms */
+form.ckeditor dl dt, form.ckeditor dl dd {
+	float: left;
+}
+form.ckeditor dl dt {
+	padding: 3px 5px 3px 0;
+	width: 20%;
+}
+form.ckeditor dl dd {
+	padding: 3px 0 3px 5px;
+	width: 76%;
+}
+form.ckeditor input.txt, form.ckeditor textarea {
+	width: 100%;
+}
+.clear {
+	clear:both;
+}
+
+
+a.samples {
+	color:#189DE1;
+	text-decoration:none;
+}
+
+a.samples:hover {
+  text-decoration:underline;
+}
+
+
+
+pre.samples
+{
+	background-color: #F7F7F7;
+	border: 1px solid #D7D7D7;
+	overflow: auto;
+	padding: 0.25em;
+}
+
+#alerts
+{
+	color: Red;
+}
+
+#outputSample
+{
+	width: 100%;
+	table-layout: fixed;
+}
+
+#outputSample thead th
+{
+	color: #dddddd;
+	background-color: #999999;
+	padding: 4px;
+	white-space: nowrap;
+}
+
+#outputSample tbody th
+{
+	vertical-align: top;
+	text-align: left;
+}
+
+#outputSample pre
+{
+	margin: 0;
+	padding: 0;
+	white-space: pre; /* CSS2 */
+	white-space: -moz-pre-wrap; /* Mozilla*/
+	white-space: -o-pre-wrap; /* Opera 7 */
+	white-space: pre-wrap; /* CSS 2.1 */
+	white-space: pre-line; /* CSS 3 (and 2.1 as well, actually) */
+	word-wrap: break-word; /* IE */
+}
+
+.description {
+	border: 1px dotted #B7B7B7;
+	margin-bottom: 10px;
+	padding: 10px 10px 0;
+}
+
+.cke_dialog label
+{
+	display: inline;
+	margin-bottom: auto;
+}

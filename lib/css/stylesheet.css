@@ -1,0 +1,100 @@
+
+body {margin:0px; padding:0px; background:url(../images/mainbg.jpg) repeat-x top #ff6600; font-family:Arial, Helvetica, sans-serif;}
+a {outline:none;}
+img {border:none;}
+
+/************************************************
+* General *
+************************************************/
+.pagebg {background:url(../images/pagebg.jpg) no-repeat top; margin:0 auto; height:540px;}
+.container{margin:0 auto; width:980px;}
+
+/************************************************
+* Header *
+************************************************/
+.header {float:left; margin:25px 0px 5px 0px;}
+.hdlft{float:left; background:url(../images/headlft.png) no-repeat top; width:14px; height:90px;}
+.hdrt{float:left; background:url(../images/headrt.png) no-repeat top; width:14px; height:90px;}
+.hdmid{float:left; background:url(../images/headmid.png)  repeat-x top; width:952px; height:90px;}
+.logo {float:left; padding:15px 0px 0px 0px;}
+.login{float:right; padding:55px 10px 0px 0px; color:#7f8084; font-size:14px;}
+.login a {font-size:14px; text-decoration:none; color:#ff6600;}
+.login a:hover {font-size:14px; text-decoration:underline; color:#ff6600;}
+
+
+/************************************************
+* Left Sidebar *
+************************************************/
+.leftside{margin:0px 2px 0px 0px; float:left; width:232px;}
+.lfthead{background:url(../images/lfttab.png) no-repeat top; width:232px; height:66px; float:left;}
+.lftmid1{background:url(../images/lfttabmid.png) repeat-y top; width:233px; float:left; min-height: 330px;}
+.lftmid{background:url(../images/lfttabmid.png) repeat-y top; width:233px; float:left; min-height: 330px;}
+.lftbtm{background:url(../images/lfttabbtm.png) no-repeat top; width:233px; height:21px; float:left;}
+.lfthd{float:left; font-size:14px; color:#ffffff; width:145px; padding:20px 0px 0px 10px;}
+.lftlogo{float:left; width:76px;}
+.altbg {padding:4px 12px 2px 12px; color:#404040; font-family: 'SegoeUISemibold', Arial; font-size:12px; width:198px; height:26px; float:left; margin:0px; border-bottom:1px solid #bdbdbd; margin:0px 0px 0px 5px; background:#eeeeed;} /* for grid's alternate raw */
+.nrlbg {padding:4px 12px 2px 12px; color:#404040; font-family: 'SegoeUISemibold', Arial; font-size:12px; width:198px; height:26px; float:left; margin:0px; border-bottom:1px solid #bdbdbd; margin:0px 0px 0px 5px; background:#ffffff;} /* for grid's normal raw */
+.bullet{float:left; margin:0px; padding:11px 7px 0px 0px;}
+.user{float:right; margin:0px;}
+.lfmidcon{float:left; margin:0px; padding:6px 0px 0px 0px;}
+
+/************************************************
+* Right Sidebar *
+************************************************/
+.rightside {margin:0px 0px 0px 0px; float:right; width:232px;}
+.rthd{float:left; font-size:14px; color:#ffffff; padding:20px 15px 0px 25px;}
+
+/************************************************
+* Content *
+************************************************/
+.content {float:left; width:980px;}
+.incontent{float:left; width:504px;}
+.incontop{float:left; background:url(../images/midtop.png) no-repeat top; width:514px; height:13px;}
+.inconmid{float:left; background:url(../images/midrepeat.png) repeat-y top; width:501px; padding:0px 0px 0px 13px;} 
+.inconbtm{float:left; background:url(../images/midbtm.png) no-repeat top; width:514px; height:13px;} 
+.video{width:488px; height:310px; float:left;}
+.videostrip{width:488px; height: 21px; float:left;}
+.tabs{width:488px; float:left;}
+.comntsec{width:980px; margin:5px 0px; float:left;}
+.comntlft{float:left; background:url(../images/cmntlft.png) no-repeat top; width:14px; height:188px;}
+.comntrt{float:left; background:url(../images/cmntrt.png) no-repeat top; width:14px; height:188px;}
+.comntmid{float:left; background:url(../images/cmntmid.png) repeat-x top; width:952px; height:188px;}
+.cmnthd{height:32px; float:left; width:952px; font-size:19px; color:#ffffff; padding:12px 0px 0px 0px;}
+
+/************************************************
+* Grid related Class *
+************************************************/
+input {border:1px solid #b8b8b8; padding:3px; color:#000000; font-size:13px;  font-family: 'SegoeUINormal', Arial;
+background:url(../images/textfiled_bg.gif) repeat-x top #ffffff;} /* default class for the textboxes for whole project */
+textarea {border:#b8b8b8 1px solid; padding:3px; font-size:13px;  color:#000000; font-family:Arial, Helvetica, sans-serif;} /* default class for the textarea for whole project */
+select {border:#b8b8b8 1px solid; padding:2px; font-size:13px; color:#000000; font-family:Arial, Helvetica, sans-serif;
+background:url(../images/select_bg.gif) repeat-x top;;} /* default class for the list menu/dropdown(like to select countries or state) for whole project */
+.inputbutton {cursor:pointer; color:#fff; text-align:center; background: url(../images/greenbtn_bg.gif) repeat-x; border:none; font-size:12px; font-weight:normal; padding:2px 2px 5px 2px; margin:0px; font-family: 'SegoeUINormal', Arial; height:26px;}
+
+.mandatory{color:#990000; font-weight:bold; font-size:12px;} /* to display mandatory things in the form, like "*"  */
+.label{color:#01355c; font-size:14px; font-family: 'SegoeUISemibold', Arial;}
+.blacklabel{color:#000000; font-size:14px; font-family: 'SegoeUISemibold', Arial;}/* to give the class for fields label  */
+.dottedline{background:url(images/dotted.gif) repeat-x top; height:9px;} /* for dotted lines */
+.border{border:1px solid #97b7dc; padding:2px;} /* common class to use border in the whole project */
+.nobg {background:none; border:none;} /* to give remove the background color or border of CHECKBOX and RADIO BUTTON */
+.sfont{font-size:10px; color:#ccc; font-style:italic;} /* for small grey font like to write comments near textfield in the grid */
+.imgborder {padding:2px; border:1px solid #c4c4c4;}
+.imagborder_selected {padding:2px; border:2px solid #2a6398;}
+.gridheaderbg {color:#ededed; padding:5px 0px 5px 8px; color:#16598c; background-color:#ededed; font-weight:bold;}
+
+/************************************************
+* Comments for members *
+************************************************/
+.maindiv {float:left; width:950px; padding:25px 0px 0px 0px;}
+.iconPrev {float:left; width:20px; margin-right:15px; padding:20px 0px 0px 0px;}
+.iconNext {float:left; width:20px; margin-left:15px; padding:20px 0px 0px 0px;}
+.boxmain {float:left; width:286px; margin-right:10px;}
+.boxmainLast {float:left; width:286px;}
+.boximg {float:left; width:102px; margin-right:10px;}
+.boxcontent {float:left; width:174px; font-size:12px; color:#555555;}
+.boxcontent p {font-size:13px; color:#e27904; font-weight:bold; padding:5px 0px 0px 0px; margin:0px;}
+
+/************************************************
+* Footer *
+************************************************/
+.footer{font-size:12px; color:#ffffff; text-align:center; margin:0px 0px 30px 0px;}

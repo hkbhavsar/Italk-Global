@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-12-23 10:36:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-23 10:36:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-23 13:47:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-23 14:55:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-23 15:40:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-23 16:52:25 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-23 17:15:41 --- ERROR: ErrorException [ 4 ]: syntax error, unexpected T_OBJECT_OPERATOR ~ APPPATH\classes\model\webservice.php [ 28 ]
+2011-12-23 17:16:00 --- ERROR: ErrorException [ 4 ]: syntax error, unexpected T_OBJECT_OPERATOR ~ APPPATH\classes\model\webservice.php [ 28 ]
+2011-12-23 17:16:12 --- ERROR: Database_Exception [ 1051 ]: Unknown table '*,product_items_code' [ SELECT `products`.`*,product_items_code`.* FROM `products` LEFT JOIN `product_items_code` ON (`products`.`product_id` = `product_items_code`.`product_id`) ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-12-23 17:35:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-23 17:35:49 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: loading2.gif ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-12-23 17:51:27 --- ERROR: Database_Exception [ 1051 ]: Unknown table 'products1' [ SELECT `products1`.*, `product_items_code`.* FROM `products` LEFT JOIN `product_items_code` ON (`products`.`product_id` = `product_items_code`.`product_id`) WHERE `product_items_code`.`country_code` IS NULL ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-12-23 17:52:02 --- ERROR: Database_Exception [ 1051 ]: Unknown table 'products1' [ SELECT `products1`.*, `product_items_code`.* FROM `products` LEFT JOIN `product_items_code` ON (`products`.`product_id` = `product_items_code`.`product_id`) WHERE `product_items_code`.`country_code` = 'USA' ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]

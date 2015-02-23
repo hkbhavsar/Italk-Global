@@ -1,0 +1,11 @@
+Ping URL::>https://www.leadlistmanager.com/api.php
+
+Ping Data::>Key=ZLt3o_Cd8N4FZgZvZ-FFY_uFYw5PY_QXZ.mkZ-5Nuw6-u_0voGDFpgIhtKSS&API_Action=pingPostLead&Mode=ping&TYPE=7&SRC=abmkt_af&State=IL&Zip=99999&SSN=999999999&Monthly_Income=1800&Test_Lead=1&Return_Best_Price=1
+
+Ping Result::><?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<status>Matched</status>
+	<lead_id>7076095</lead_id>
+	<price>10</price>
+</response>
+

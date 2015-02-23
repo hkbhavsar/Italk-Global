@@ -1,0 +1,18 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-04-25 22:00:25 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:04:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:04:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_fff880_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:04:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_232428_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:04:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-icons_ffffff_256x240.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:04:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_969696_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:06:10 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:06:10 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-icons_ffffff_256x240.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:06:11 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_232428_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:06:11 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_969696_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:07:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:07:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-icons_ffffff_256x240.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:07:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_232428_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:07:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_fff880_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 22:07:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_969696_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-25 23:57:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]

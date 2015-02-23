@@ -1,0 +1,52 @@
+<div class="inner-spacer">  
+<!-- dummy file -->
+<p>data-widget-load="widget-ajax2.php"</p>
+<div class="spacer-10"></div>
+<div class="powerwidget-timestamp"></div>
+
+<div class="powerwidget" id="widget2">
+    <div>
+        <table class="basic-table" id="tableexample1">
+          <thead>
+            <tr>
+              <th scope="col" class="tb-checkbox"><input type="checkbox" name="" class="e-checkbox-trigger"/></th>
+               <th scope="col">Sr.</th>
+               <th scope="col">Name</th>
+               <th scope="col">Lead Type</th>
+              <th scope="col">State</th>
+              <th scope="col">M.Income</th>
+              <th scope="col">Phone</th>
+              <th scope="col">Email</th>
+              <th scope="col">Comment</th>
+              <th scope="col">Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- new row -->
+            <?php if(count($leadsData)>0){ $i=1; $l = 2;?>
+            <?php foreach($leadsData as $key=>$value){
+			 ?>
+            <tr>
+              <td width="1%"><input type="checkbox" name="ch[]" value="<?php echo $value->id;?>" <?php echo $checked;?>/></td>
+              <td><?php echo $i;?></td>
+              <td><?php echo $value->fname." ".$value->lname;?></td>
+              <td><?php echo $value->lead_types;?></td>
+              <td><?php echo $value->state;?></td>
+              <td><?php echo $value->monthly_income;?></td>
+              <td><?php echo $value->phone;?></td>
+              <td><?php echo Helper_Utils::split_on($value->email,10);?></td>
+              <td><?php echo Helper_Utils::split_on($value->comment,10);?></td>
+              <td><?php echo $value->comment_admin;?></td>
+            </tr>
+            <?php $i++;}}else{?>
+             <tr>
+              <td colspan="9" style="text-align:center;">No any records found</td>
+            </tr>
+            <?php }?>
+          </tbody>
+        </table>
+      </form>
+    </div>
+  </div>
+
+</div>

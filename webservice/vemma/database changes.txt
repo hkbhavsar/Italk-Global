@@ -1,0 +1,4 @@
+ALTER TABLE `vemmas` ADD `enroller_contact_id` BIGINT( 20 ) NULL DEFAULT NULL AFTER `contact_status` ,
+ADD `enroller_business_center_id` INT( 11 ) NULL DEFAULT NULL AFTER `enroller_contact_id` ;
+
+ALTER TABLE `vemmas` ADD `contact_name2` VARCHAR( 100 ) NOT NULL AFTER `contact_name` ;

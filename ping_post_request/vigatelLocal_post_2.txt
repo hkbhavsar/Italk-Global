@@ -1,0 +1,6 @@
+Post URL::>http://vigatelllc.com/webservice/server.php?wsdl 
+
+Ping Data::>zip=63118&client_id=386&lead_id=2&phone3143678409email=tem2jap@yahoo.com
+
+Ping Result::>Success~~2.80
+

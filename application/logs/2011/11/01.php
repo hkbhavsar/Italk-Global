@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-11-01 10:59:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/arrows.png ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-11-01 11:04:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/arrows.png ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-11-01 11:04:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/arrows.png ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-11-01 11:06:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/arrows.png ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-11-01 11:06:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/arrows.png ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2011-11-01 12:21:27 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_760_0.MYD' (Errcode: 13) [ SHOW FULL COLUMNS FROM `users` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-01 12:30:59 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_760_0.MYD' (Errcode: 13) [ SHOW FULL COLUMNS FROM `prospects` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-01 14:53:45 --- ERROR: ErrorException [ 2 ]: include_once(dashboard_leftbox.php) [function.include-once]: failed to open stream: No such file or directory ~ APPPATH\views\admin\prospects\list.php [ 10 ]
+2011-11-01 14:54:05 --- ERROR: ErrorException [ 2 ]: include_once(dashboard_rightbox.php) [function.include-once]: failed to open stream: No such file or directory ~ APPPATH\views\admin\prospects\list.php [ 64 ]
+2011-11-01 16:26:18 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_760_0.MYI' (Errcode: 13) [ SHOW FULL COLUMNS FROM `status` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-01 16:27:30 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_760_0.MYD' (Errcode: 13) [ SHOW FULL COLUMNS FROM `users` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-01 16:42:53 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_760_0.MYI' (Errcode: 13) [ SHOW FULL COLUMNS FROM `country` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-11-01 18:48:46 --- ERROR: Database_Exception [ 1 ]: Can't create/write to file 'C:\Windows\TEMP\#sql_760_0.MYD' (Errcode: 13) [ SHOW FULL COLUMNS FROM `country` ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]

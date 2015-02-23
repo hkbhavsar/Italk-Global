@@ -1,0 +1,25 @@
+ALTER TABLE `user_address` ADD `address3` VARCHAR( 50 ) NULL AFTER `address2` ,
+ADD `address4` VARCHAR( 50 ) NULL AFTER `address3` ;
+
+ALTER TABLE `user_address` CHANGE `state` `statecode` VARCHAR( 15 ) CHARACTER SET utf8 COLLATE utf8_unicode_ci NULL DEFAULT NULL 
+ALTER TABLE `user_address` ADD `countrycode` VARCHAR( 15 ) NULL AFTER `statecode` ;
+ALTER TABLE `user_address` CHANGE `zip` `postalcode` VARCHAR( 15 ) CHARACTER SET utf8 COLLATE utf8_unicode_ci NULL DEFAULT NULL 
+ALTER TABLE `user_address` ADD `phone1` VARCHAR( 25 ) NULL AFTER `postalcode` ,
+ADD `phone2` VARCHAR( 25 ) NULL AFTER `phone1` ;
+
+
+CREATE TABLE `user_orders` (
+  `order_id` int(15) NOT NULL auto_increment,
+  `user_id` int(11) NOT NULL,
+  `items` varchar(50) NOT NULL,
+  `shippingoption` double NOT NULL,
+  `subordertype` varchar(50) NOT NULL,
+  `entrydate` double NOT NULL,
+  `cctype` double NOT NULL,
+  `ccholder` varchar(50) NOT NULL,
+  `ccnumber` double NOT NULL,
+  `ccexpdate` varchar(20) NOT NULL,
+  `externalordernumber` varchar(15) NOT NULL,
+  `ordersource` varchar(50) NOT NULL,
+  PRIMARY KEY  (`order_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;

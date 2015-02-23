@@ -1,0 +1,5 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-10-05 10:37:24 --- ERROR: Database_Exception [ 1048 ]: Column 'user_id' cannot be null [ INSERT INTO `visits` (`prospect_id`, `visit_date`, `total_visit`, `user_id`) VALUES ('3', now(), total_visit+1, NULL) ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-10-05 10:37:32 --- ERROR: Database_Exception [ 1048 ]: Column 'user_id' cannot be null [ INSERT INTO `visits` (`prospect_id`, `visit_date`, `total_visit`, `user_id`) VALUES ('3', now(), total_visit+1, NULL) ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]
+2011-10-05 10:37:46 --- ERROR: Database_Exception [ 1048 ]: Column 'user_id' cannot be null [ INSERT INTO `visits` (`prospect_id`, `visit_date`, `total_visit`, `user_id`) VALUES ('3', now(), total_visit+1, NULL) ] ~ MODPATH\database\classes\kohana\database\mysql.php [ 179 ]

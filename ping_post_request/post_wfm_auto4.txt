@@ -1,0 +1,10 @@
+Post URL::>https://www.leadlistmanager.com/api.php
+
+Post Data::>Key=ZLt3o_Cd8N4FZgZvZ-FFY_uFYw5PY_QXZ.mkZ-5Nuw6-u_0voGDFpgIhtKSS&API_Action=pingPostLead&Mode=post&Lead_ID=7076259&TYPE=7&IP_Address=64.123.190.237&Landing_Page=landing&First_Name=tammy&Last_Name=fagan&Address=813 concord street&City=Cleburne&Email=stkfagan@yahoo.com&Phone=8177607438&Alternate_Phone=8177607438&CoSigner=Yes&DOB=09/18/1963&Months_At_Residence=1&Years_At_Residence=8&Monthly_Mortgage_Or_Rent=500&Rent_Or_Own=Own&Bankruptcy=No&Employer=loyd bransom surveyors&Occupation=loyd bransom surveyors&State=TX&Zip=99999&SSN=999999999&Monthly_Income=3680
+
+Post Result::><?xml version="1.0" encoding="UTF-8"?><response>
+ <status>Matched</status>
+ <lead_id>7076259</lead_id>
+</response>
+
+
