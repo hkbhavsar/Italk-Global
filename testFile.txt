@@ -1,4 +1,0 @@
-Ping URL::>http://leadtrading.autobuyingsolutionsinc.com/AutomotiveFinance.asmx/DynamicPricePing
-
-Ping Data::>providerId=262&grossMonthlyIncome=2400&socialSecurityNumber=433553805&postalCode=71108
-
